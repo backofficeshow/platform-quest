@@ -2,6 +2,8 @@
 
 A 10-level platformer game built with vanilla JavaScript and HTML5 Canvas.
 
+Try it here: https://platform-quest.andrew-ce0.workers.dev/
+
 ## Game Overview
 
 - **Objective**: Complete all 10 levels by defeating all enemies (and bosses) to unlock the exit, then collect the treasure to advance
